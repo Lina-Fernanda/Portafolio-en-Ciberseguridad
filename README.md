@@ -10,10 +10,15 @@ Este repositorio refleja mi ruta de formación y mi compromiso en crecer profesi
 ## 📂 Estructura del Repositorio
 
 /01-Fundamentos → Escaneo de redes (Nmap), análisis de tráfico (Wireshark), scripts básicos
+
 /02-Hardening → Configuraciones seguras en Linux y Windows
+
 /03-Pentesting → Laboratorios con DVWA, Metasploitable y retos prácticos
+
 /04-Forense → Análisis con Autopsy y Volatility
+
 /05-Proyecto-Final → Servidor vulnerable protegido (antes vs. después)
+
 
 
 ---
