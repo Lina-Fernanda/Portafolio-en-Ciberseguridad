@@ -54,9 +54,14 @@ Este repositorio refleja mi ruta de formación y mi compromiso en crecer profesi
 
 ## 📫 Sígueme
 
-- **LinkedIn:** [***]  
-- **Correo:** [***]  
-- **GitHub:** [***]  
+- **LinkedIn:** [linkedin.com/in/lina-fernanda-c-a73843179]  
+- **Correo:** [lf.cybershield@gmail.com]  
+- **GitHub:** [github.com/Lina-Fernanda]  
+## 🌐 Sígueme
+
+<a href="mailto:lina.canon.cyber@gmail.com"><img src="https://img.icons8.com/ios-glyphs/30/EA4335/gmail.png"/></a>
+<a href="https://linkedin.com/in/tuusuario"><img src="https://img.icons8.com/ios-glyphs/30/0077B5/linkedin.png"/></a>
+<a href="https://github.com/tuusuario"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" style="background:black; border-radius:50%"/></a>
 
 ---
 
